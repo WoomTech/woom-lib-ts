@@ -1,2 +1,3 @@
 # woom-lib-ts
-Woom shared library for typescript
+
+woom shared lib
